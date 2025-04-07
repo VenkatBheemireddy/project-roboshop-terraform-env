@@ -22,3 +22,4 @@ NOTES: To destroy the infra you have to run as below:
     * make prd-destroy
 
 
+
