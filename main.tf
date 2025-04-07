@@ -6,5 +6,3 @@ module "components" {
   env = var.env
 }
 
-
-
